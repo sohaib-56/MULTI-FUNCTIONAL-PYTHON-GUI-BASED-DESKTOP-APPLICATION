@@ -96,8 +96,9 @@ Each module has been tested for:
 
 ## 👨‍🎓 Authors
 
+- **M-Sohaib Iqbal** 
 - **Mueed Mehmood**   
-- **M-Sohaib Iqbal**  
+ 
 
 **Institution:** Department of Information Technology  
 **University:** Government College University, Faisalabad
